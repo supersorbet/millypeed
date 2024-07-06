@@ -1,5 +1,5 @@
 [bytesDraft](https://github.com/supersorbet/millypeed/blob/main/millypeed/bitesDraft.sol) is a hyper-gas efficient fully compliant ERC20 clone,
-along with a [factory for deploying it](https://github.com/supersorbet/millypeed/blob/main/millypeed/sstoreFactory.sol)) (will verify on etherscan)
+along with a [factory for deploying it](https://github.com/supersorbet/millypeed/blob/main/millypeed/sstoreFactory.sol) (it WILL verify on etherscan)
 
 
 # [millypeed](https://github.com/supersorbet/millypeed/blob/main/millypeed/millypeedpageS035Delta.sol) is an efficient ERC155Delta contract,
